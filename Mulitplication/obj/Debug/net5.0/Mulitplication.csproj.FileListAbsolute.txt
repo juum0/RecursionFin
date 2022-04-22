@@ -1,0 +1,16 @@
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.csproj.AssemblyReference.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.AssemblyInfoInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.AssemblyInfo.cs
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.csproj.CoreCompileInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\bin\Debug\net5.0\Mulitplication.exe
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\bin\Debug\net5.0\Mulitplication.deps.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\bin\Debug\net5.0\Mulitplication.runtimeconfig.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\bin\Debug\net5.0\Mulitplication.runtimeconfig.dev.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\bin\Debug\net5.0\Mulitplication.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\bin\Debug\net5.0\ref\Mulitplication.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\bin\Debug\net5.0\Mulitplication.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\ref\Mulitplication.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Mulitplication\obj\Debug\net5.0\Mulitplication.genruntimeconfig.cache

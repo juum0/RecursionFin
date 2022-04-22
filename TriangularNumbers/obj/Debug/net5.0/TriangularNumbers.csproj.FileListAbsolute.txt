@@ -1,0 +1,16 @@
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.exe
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.deps.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.runtimeconfig.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.runtimeconfig.dev.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\ref\TriangularNumbers.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\bin\Debug\net5.0\TriangularNumbers.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.csproj.AssemblyReference.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.AssemblyInfoInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.AssemblyInfo.cs
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.csproj.CoreCompileInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\ref\TriangularNumbers.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\TriangularNumbers\obj\Debug\net5.0\TriangularNumbers.genruntimeconfig.cache

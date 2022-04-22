@@ -1,0 +1,16 @@
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.exe
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.deps.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.runtimeconfig.dev.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\bin\Debug\net5.0\ref\Palindromes.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\bin\Debug\net5.0\Palindromes.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.csproj.AssemblyReference.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfoInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfo.cs
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\ref\Palindromes.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\lab3\recursionlab_core-juum0-master\Recursion_Core5\Palindromes\obj\Debug\net5.0\Palindromes.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {}
+    "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {
+    "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
         "projectName": "FibonacciNumbers",
-        "projectPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
+        "projectPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\FibonacciNumbers.csproj",
         "packagesPath": "C:\\Users\\cornh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\obj\\",
+        "outputPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\FibonacciNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cornh\\AppData\\Roaming\\NuGet\\NuGet.Config",

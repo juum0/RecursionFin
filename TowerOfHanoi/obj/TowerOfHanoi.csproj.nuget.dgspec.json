@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj": {}
+    "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj": {
+    "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj",
+        "projectUniqueName": "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj",
         "projectName": "TowerOfHanoi",
-        "projectPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj",
+        "projectPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\TowerOfHanoi.csproj",
         "packagesPath": "C:\\Users\\cornh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\localrepo\\lab3\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\obj\\",
+        "outputPath": "C:\\Users\\cornh\\OneDrive\\Desktop\\recursionlab_core-juum0-master\\Recursion_Core5\\TowerOfHanoi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cornh\\AppData\\Roaming\\NuGet\\NuGet.Config",
